@@ -1,0 +1,11 @@
+/* 
+from http://www.dafont.com/theme.php?cat=113s
+*/
+@font-face {
+   font-family: myFirstFont;
+   src: url(mom_oldtype.ttf);
+}
+p.myfont{
+   font-family: myFirstFont;
+}
+
